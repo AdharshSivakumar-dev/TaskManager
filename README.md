@@ -13,7 +13,7 @@ A full-stack task management and team collaboration system built with FastAPI an
 
 - **Authentication** — JWT-based registration and login with protected routes
 - **Projects** — Create, edit, and delete projects with full ownership control
-- **Task Board** — Kanban-style board with Pending, In Progress, and Completed columns
+- **Task Board** — Task board with Pending, In Progress, and Completed columns
 - **My Tasks** — Dedicated view for tasks assigned to you across all projects
 - **Task Assignment** — Assign tasks to any registered user
 - **Notifications** — In-app notifications on task assignment including self-assignment
